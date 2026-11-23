@@ -68,13 +68,15 @@ export function Footer({ studioName = "Studio LABAZ", onNavigate }: FooterProps)
                 </span>
               )}
             </div>
-            <div>
+            <div className="flex flex-wrap items-center gap-2 pl-4.5 text-xs uppercase tracking-[0.2em] text-white/60">
               <a
                 href="tel:+33614321539"
-                className="inline-block text-xs uppercase tracking-[0.2em] text-white/60 hover:text-white transition-colors pl-4.5"
+                className="hover:text-white transition-colors"
               >
                 06 14 32 15 39
               </a>
+              <span aria-hidden="true">•</span>
+              <span>Saint Germain en Laye - France</span>
             </div>
             <div>
               <a
