@@ -105,7 +105,7 @@ export function Header({ studioName = "Studio AG", alwaysVisible = false, onNavi
           {/* Action Buttons */}
           <div className="flex items-center gap-2.5">
             <a
-              href="https://www.instagram.com/studiolabaz?fqnt=MWw4a3V1Z2hnanMxbA=="
+              href="https://www.instagram.com/studiolabaz"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-flex border border-white/20 hover:border-primary text-white/85 hover:text-white hover:bg-primary/15 px-4 md:px-5 py-2 rounded-full transition-all font-medium text-xs md:text-sm"
@@ -153,7 +153,7 @@ export function Header({ studioName = "Studio AG", alwaysVisible = false, onNavi
               Qui suis-je ?
             </button>
             <a
-              href="https://www.instagram.com/studiolabaz?fqnt=MWw4a3V1Z2hnanMxbA=="
+              href="https://www.instagram.com/studiolabaz"
               target="_blank"
               rel="noopener noreferrer"
               className="sm:hidden inline-flex items-center justify-center border border-white/20 text-white/90 px-4 py-2.5 rounded-full text-sm font-medium mt-1"

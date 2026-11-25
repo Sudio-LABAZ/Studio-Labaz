@@ -80,7 +80,7 @@ export function Footer({ studioName = "Studio LABAZ", onNavigate }: FooterProps)
             </div>
             <div>
               <a
-                href="https://www.instagram.com/studiolabaz?fqnt=MWw4a3V1Z2hnanMxbA=="
+                href="https://www.instagram.com/studiolabaz"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block text-xs tracking-[0.2em] text-white/60 hover:text-white transition-colors pl-4.5"
@@ -149,7 +149,7 @@ export function Footer({ studioName = "Studio LABAZ", onNavigate }: FooterProps)
             {/* Social Links */}
             <div className="flex items-center gap-3">
               <a
-                href="https://www.instagram.com/studiolabaz?fqnt=MWw4a3V1Z2hnanMxbA=="
+                href="https://www.instagram.com/studiolabaz"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
