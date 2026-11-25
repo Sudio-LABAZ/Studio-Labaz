@@ -157,12 +157,6 @@ export function Footer({ studioName = "Studio LABAZ", onNavigate }: FooterProps)
               >
                 <Instagram className="w-4 h-4 text-white/75 group-hover:text-white" />
               </a>
-              <span
-                aria-label="YouTube"
-                className="w-9 h-9 border border-white/15 rounded-full flex items-center justify-center text-white/50"
-              >
-                <Youtube className="w-4 h-4" />
-              </span>
             </div>
 
             {/* Copyright */}
